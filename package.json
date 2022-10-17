@@ -1,0 +1,22 @@
+{
+  "name": "testing-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eben-serfontein/Testing-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eben-serfontein/Testing-npm/issues"
+  },
+  "homepage": "https://github.com/eben-serfontein/Testing-npm#readme",
+  "dependencies": {
+    "dog-names": "^2.1.0"
+  }
+}
